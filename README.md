@@ -3,7 +3,7 @@ Analyzing Profit and Sales  with Tableau Visualization
 
 # Business Problem 
 
-Superstore Global Retail Chain who supplies various office,home supplies wants expand their business in the East region. They are currently operating in the North, Central and South Europe. As a first step, they want to understand how they performed in terms of the sales and profit for the past three years to take somme informed decisons. With this exercise, they seek to understand :
+Superstore Global Retail Chain who supplies various office,home supplies wants expand their business in the East region. They are currently operating in the North, Central and South Europe. As a first step, they want to understand how they performed in terms of the sales and profit on these regions for the past three years to take some informed decisons. With this exercise, they seek to understand :
 
 * What are the total sales and profit inclusing total number of orders
 * A comprehensive view on sales and profit across regions over the last 4 years
@@ -12,7 +12,7 @@ Superstore Global Retail Chain who supplies various office,home supplies wants e
 
 # Dashboard
 
-An interactive dashboard is presented to Superstore so that they can dive deeper into the numbers and have clear knowledge of the performance of their store. This can be navigated [here](). 
+An interactive dashboard is presented to Superstore so that they can dive deeper into the numbers and have clear knowledge of the performance of their store. This can be navigated [here](https://public.tableau.com/app/profile/ishita2358/viz/RetailStoreAnalysis_16360746426670/RetailAnalysisDashboarding). 
 
 # Data Findings
 
@@ -48,5 +48,6 @@ Through the interactive dashboard, more insights are driven for the business
  
 ![image](https://user-images.githubusercontent.com/49127037/140440190-ad1fd333-72d0-4b34-8abd-0f5756ad1cd4.png)
 
+The rest of the insights are visualized through the interactive dashboard in [Tableau Public](https://public.tableau.com/app/profile/ishita2358/viz/RetailStoreAnalysis_16360746426670/RetailAnalysisDashboarding)
 
 
