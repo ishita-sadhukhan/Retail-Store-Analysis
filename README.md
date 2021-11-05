@@ -31,7 +31,7 @@ The executive summary here shows how Superstore has performed overall during the
 Through the interactive dashboard, more insights are driven for the business
 
 #### By location
-* **Technology** supplies are the largets contributors in the Central Region
+* **Technology** supplies are the largest contributor for Sales in the Central Region
 *  **Paris** sees the highest amount of sales for office-supplies CAtegory  
 
 ![image](https://user-images.githubusercontent.com/49127037/140415909-9605f23f-3b1c-477c-8224-8dccfb925598.png)
@@ -40,6 +40,13 @@ Through the interactive dashboard, more insights are driven for the business
 * **August** Month has the highest sells of **Consumer categories** while February has the lowest
 
 ![image](https://user-images.githubusercontent.com/49127037/140419301-9042d3e6-5733-4c95-b7b7-e0530f55fc94.png)
+
+#### Snapshot of store performance for North 
+
+* Consumer contributes the highest for the sales in Region North
+* The last two quarters for 2018 wresulted with highest sale
+ 
+![image](https://user-images.githubusercontent.com/49127037/140440190-ad1fd333-72d0-4b34-8abd-0f5756ad1cd4.png)
 
 
 
